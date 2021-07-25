@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is a simple website project for showing how to use Git and GitHub together.
-Adding a line
+Adding a line, then for example more changes
 ##Introduction
 
 This example shows different parts of Git repository and various and commands .
